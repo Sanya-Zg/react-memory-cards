@@ -42,7 +42,7 @@ function App() {
           <span className='score'>{score}</span>
         </div>
         <div className='score_element'>
-          <p>Best srore:</p>
+          <p>Best score:</p>
           <span className='best__score'>{maxScore}</span>
         </div>
       </div>
